@@ -1,0 +1,31 @@
+{
+  "expo": {
+    "name": "NowNow 闹闹",
+    "slug": "ziyue-nownow",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#FFF4DE"
+    },
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.ziyue.nownow"
+    },
+    "android": {
+      "package": "com.ziyue.nownow",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icon.png",
+        "backgroundColor": "#F45B3A"
+      },
+      "edgeToEdgeEnabled": true
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
